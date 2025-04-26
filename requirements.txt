@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+nltk
+apache-airflow
+torch
+transformers
+tqdm
+sentence-transformers
+datasets
+matplotlib
+seaborn
+ipywidgets
